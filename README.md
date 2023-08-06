@@ -1,3 +1,5 @@
+# Schrödinger's Cat in a BusyBox
+
 - 👋 Hi, I’m @BusyBoxed-Cat
 - 👀 I’m interested in destruction
 - 🌱 I’m currently learning how to make nuclear bombs
