@@ -7,7 +7,7 @@
 - 📫 How to reach me:
 
 ```sh
-echo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/' -e 's/[Ff]r[Ee]e/Busy/'`
+echo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/' -e 's/[Ff]r[Ee]e/Busy/' -e's/\(.*\)/mailto:\1/'`
 ```
 
 - 🔏 My Public Key:
