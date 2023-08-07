@@ -4,7 +4,12 @@
 - 👀 I’m interested in destruction
 - 🌱 I’m currently learning how to make nuclear bombs
 - 💞️ I’m looking to collaborate on the coming of the Apocalypsis
-- 📫 How to reach me: `echo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/''`
+- 📫 How to reach me:
+
+```sh
+echo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/' -e 's/[Ff]r[Ee]e/Busy/'`
+```
+
 - 🔏 My Public Key:
 
 ```
