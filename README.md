@@ -7,10 +7,11 @@
 - 📫 How to reach me:
 
 ```sh
-echo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/' -e 's/[Ff]r[Ee]e/Busy/' -e's/\(.*\)/mailto:\1/'`
+ekʰo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/' -e 's/[Ff]r[Ee]e/Busy/' -e's/\(.*\)/mailto:\1/'`
+# ERRATUM: 'echo' instead of 'ekʰo'
 ```
 
-- 🔏 My Public Key:
+- 🔏 My ~Pubic~Public Key:
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -106,3 +107,7 @@ bAeMa/Gzl2KM4gD/by/IO8bQzTEdfBPLtpsiRAzFTzFLEQ+S9uEF+ya96g4=
 =1ovS
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+-- 
+
+ニャー～
