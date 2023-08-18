@@ -7,8 +7,19 @@
 - 📫 How to reach me:
 
 ```sh
-ekʰo 'FreeBoxed8Dog.i3pmail,com' | tr '8.3,' '0@2.' | sed -e 's/Dog/Cat/' -e 's/com/org/' -e 's/[Ff]r[Ee]e/Busy/' -e's/\(.*\)/mailto:\1/'`
-# ERRATUM: 'echo' instead of 'ekʰo'
+# But first, did you know that agentoocat is a good cat? So,
+# I liked how he obfuscates his amel-a-dress on his eepsite.
+ekʰo 'FreeBoxed8Dog.i3pmail,com' | \
+	tr '8.3,' '0@2.' | \
+	sed -e 's/Dog/Cat/' \
+	    -e 's/com/org/' \
+	    -e 's/[Ff]r[Ee]e/Busy/' \
+	    -e 's/\(.*\)/mailto:\1/'
+# ERRATUM: 'echo' in-stead of 'ekʰo'
+# UPDATE: moare elaborate kode aestethic
+# MAYBETODO: mirror that repo on agentoocat's git server?
+#            would'nt be kind of Trollisch?
+# Nya~
 ```
 
 - 🔏 My ~Pubic~Public Key:
